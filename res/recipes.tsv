@@ -1,0 +1,214 @@
+Name	Machine	Input	Time	Output
+Adaptive Control Unit	Manufacturer	15:Automated Wiring, 10:Circuit Board, 2:Heavy Modular Frame, 2:Computer	120	2:Adaptive Control Unit
+AI Limiter	Assembler	5:Copper Sheet, 20:Quickwire	12	1:AI Limiter
+Alclad Aluminum Sheet	Assembler	3:Aluminum Ingot, 1:Copper Ingot	6	3:Alclad Aluminum Sheet
+Alternate: Adhered Iron Plate	Assembler	3:Iron Plate, 1:Rubber	16	1:Reinforced Iron Plate
+Alternate: Alclad Casing	Assembler	20:Aluminum Ingot, 10:Copper Ingot	8	15:Aluminum Casing
+Alternate: Automated Miner	Manufacturer	1:Motor, 4:Steel Pipe, 4:Iron Rod, 2:Iron Plate	60	1:Portable Miner
+Alternate: Automated Speed Wiring	Manufacturer	2:Stator, 40:Wire, 1:High-Speed Connector	32	4:Automated Wiring
+Alternate: Biocoal	Constructor	5:Biomass	8	6:Coal
+Alternate: Bolted Frame	Assembler	3:Reinforced Iron Plate, 56:Screw	24	2:Modular Frame
+Alternate: Bolted Iron Plate	Assembler	18:Iron Plate, 50:Screw	12	3:Reinforced Iron Plate
+Alternate: Cast Screw	Constructor	5:Iron Ingot	24	20:Screw
+Alternate: Caterium Circuit Board	Assembler	10:Plastic, 30:Quickwire	48	7:Circuit Board
+Alternate: Caterium Computer	Manufacturer	7:Circuit Board, 28:Quickwire, 12:Rubber	16	1:Computer
+Alternate: Caterium Wire	Constructor	1:Caterium Ingot	4	8:Wire
+Alternate: Charcoal	Constructor	1:Wood	4	10:Coal
+Alternate: Cheap Silica	Assembler	3:Raw Quartz, 5:Limestone	16	7:Silica
+Alternate: Classic Battery	Manufacturer	6:Sulfur, 7:Alclad Aluminum Sheet, 8:Plastic, 12:Wire	8	4:Battery
+Alternate: Coated Cable	Refinery	5:Wire, 2:m^3 Heavy Oil Residue	8	9:Cable
+Alternate: Coated Iron Canister	Assembler	2:Iron Plate, 1:Copper Sheet	4	4:Empty Canister
+Alternate: Coated Iron Plate	Assembler	10:Iron Ingot, 2:Plastic	12	15:Iron Plate
+Alternate: Coke Steel Ingot	Foundry	15:Iron Ore, 15:Petroleum Coke	12	20:Steel Ingot
+Alternate: Compacted Coal	Assembler	5:Coal, 5:Sulfur	12	5:Compacted Coal
+Alternate: Compacted Steel Ingot	Foundry	6:Iron Ore, 3:Compacted Coal	16	10:Steel Ingot
+Alternate: Cooling Device	Blender	5:Heat Sink, 1:Motor, 24:m^3 Nitrogen Gas	32	2:Cooling System
+Alternate: Copper Alloy Ingot	Foundry	10:Copper Ore, 5:Iron Ore	12	20:Copper Ingot
+Alternate: Copper Rotor	Assembler	6:Copper Sheet, 52:Screw	16	3:Rotor
+Alternate: Crystal Beacon	Manufacturer	4:Steel Beam, 16:Steel Pipe, 1:Crystal Oscillator	120	20:Beacon
+Alternate: Crystal Computer	Assembler	8:Circuit Board, 3:Crystal Oscillator	64	3:Computer
+Alternate: Diluted Fuel	Blender	5:m^3 Heavy Oil Residue, 10:m^3 Water	6	10:m^3 Fuel
+Alternate: Diluted Packaged Fuel	Refinery	1:m^3 Heavy Oil Residue, 2:Packaged Water	2	2:Packaged Fuel
+Alternate: Electric Motor	Assembler	1:Electromagnetic Control Rod, 2:Rotor	16	2:Motor
+Alternate: Electrode - Aluminum Scrap	Refinery	12:m^3 Alumina Solution, 4:Petroleum Coke	4	20:Aluminum Scrap, 7:m^3 Water
+Alternate: Electrode Circuit Board	Assembler	6:Rubber, 9:Petroleum Coke	12	1:Circuit Board
+Alternate: Electromagnetic Connection Rod	Assembler	2:Stator, 1:High-Speed Connector	15	2:Electromagnetic Control Rod
+Alternate: Encased Industrial Pipe	Assembler	7:Steel Pipe, 5:Concrete	15	1:Encased Industrial Beam
+Alternate: Fertile Uranium	Blender	5:Uranium, 5:Uranium Waste, 3:m^3 Nitric Acid, 5:m^3 Sulfuric Acid	12	20:Non-fissile Uranium, 8:m^3 Water
+Alternate: Fine Black Powder	Assembler	2:Sulfur, 1:Compacted Coal	16	4:Black Powder
+Alternate: Fine Concrete	Assembler	3:Silica, 12:Limestone	24	10:Concrete
+Alternate: Flexible Framework	Manufacturer	1:Modular Frame, 6:Steel Beam, 8:Rubber	16	2:Versatile Framework
+Alternate: Fused Quickwire	Assembler	1:Caterium Ingot, 5:Copper Ingot	8	12:Quickwire
+Alternate: Fused Wire	Assembler	4:Copper Ingot, 1:Caterium Ingot	20	30:Wire
+Alternate: Heat Exchanger	Assembler	3:Aluminum Casing, 3:Rubber	6	1:Heat Sink
+Alternate: Heat-Fused Frame	Blender	1:Heavy Modular Frame, 50:Aluminum Ingot, 8:m^3 Nitric Acid, 10:m^3 Fuel	20	1:Fused Modular Frame
+Alternate: Heavy Encased Frame	Manufacturer	8:Modular Frame, 10:Encased Industrial Beam, 36:Steel Pipe, 22:Concrete	64	3:Heavy Modular Frame
+Alternate: Heavy Flexible Frame	Manufacturer	5:Modular Frame, 3:Encased Industrial Beam, 20:Rubber, 104:Screw	16	1:Heavy Modular Frame
+Alternate: Heavy Oil Residue	Refinery	3:m^3 Crude Oil	6	4:m^3 Heavy Oil Residue, 2:Polymer Resin
+Alternate: Infused Uranium Cell	Manufacturer	5:Uranium, 3:Silica, 5:Sulfur, 15:Quickwire	12	4:Encased Uranium Cell
+Alternate: Instant Plutonium Cell	Particle Accelerator	150:Non-fissile Uranium, 20:Aluminum Casing	120	20:Encased Plutonium Cell
+Alternate: Instant Scrap	Blender	15:Bauxite, 10:Coal, 5:m^3 Sulfuric Acid, 6:m^3 Water	6	30:Aluminum Scrap, 5:m^3 Water
+Alternate: Insulated Cable	Assembler	9:Wire, 6:Rubber	12	20:Cable
+Alternate: Insulated Crystal Oscillator	Manufacturer	10:Quartz Crystal, 7:Rubber, 1:AI Limiter	32	1:Crystal Oscillator
+Alternate: Iron Alloy Ingot	Foundry	2:Iron Ore, 2:Copper Ore	6	5:Iron Ingot
+Alternate: Iron Wire	Constructor	5:Iron Ingot	24	9:Wire
+Alternate: OC Supercomputer	Assembler	3:Radio Control Unit, 3:Cooling System	20	1:Supercomputer
+Alternate: Plastic Smart Plating	Manufacturer	1:Reinforced Iron Plate, 1:Rotor, 3:Plastic	24	2:Smart Plating
+Alternate: Plutonium Fuel Unit	Assembler	20:Encased Plutonium Cell, 1:Pressure Conversion Cube	120	1:Plutonium Fuel Rod
+Alternate: Polyester Fabric	Refinery	1:Polymer Resin, 1:m^3 Water	2	1:Fabric
+Alternate: Polymer Resin	Refinery	6:m^3 Crude Oil	6	13:Polymer Resin, 2:m^3 Heavy Oil Residue
+Alternate: Pure Aluminum Ingot	Smelter	2:Aluminum Scrap	2	1:Aluminum Ingot
+Alternate: Pure Caterium Ingot	Refinery	2:Caterium Ore, 2:m^3 Water	5	1:Caterium Ingot
+Alternate: Pure Copper Ingot	Refinery	6:Copper Ore, 4:m^3 Water	24	15:Copper Ingot
+Alternate: Pure Iron Ingot	Refinery	7:Iron Ore, 4:m^3 Water	12	13:Iron Ingot
+Alternate: Pure Quartz Crystal	Refinery	9:Raw Quartz, 5:m^3 Water	8	7:Quartz Crystal
+Alternate: Quickwire Cable	Assembler	3:Quickwire, 2:Rubber	24	11:Cable
+Alternate: Quickwire Stator	Assembler	4:Steel Pipe, 15:Quickwire	15	2:Stator
+Alternate: Radio Connection Unit	Manufacturer	4:Heat Sink, 2:High-Speed Connector, 12:Quartz Crystal	16	1:Radio Control Unit
+Alternate: Radio Control System	Manufacturer	1:Crystal Oscillator, 10:Circuit Board, 60:Aluminum Casing, 30:Rubber	40	3:Radio Control Unit
+Alternate: Recycled Plastic	Refinery	6:Rubber, 6:m^3 Fuel	12	12:Pastic
+Alternate: Recycled Rubber	Refinery	6:Plastic, 6:m^3 Fuel	12	12:Rubber
+Alternate: Rigour Motor	Manufacturer	3:Rotor, 3:Stator, 1:Crystal Oscillator	48	6:Motor
+Alternate: Rubber Concrete	Assembler	10:Limestone, 2:Rubber	12	9:Concrete
+Alternate: Silicon Circuit Board	Assembler	11:Copper Sheet, 11:Silica	24	5:Circuit Board
+Alternate: Silicon High-Speed Connector	Manufacturer	60:Quickwire, 25:Silica, 2:Circuit Board	40	2:High-Speed Connector
+Alternate: Sloppy Alumina	Refinery	10:Bauxite, 10:m^3 Water	3	12:m^3 Alumina Solution
+Alternate: Solid Steel Ingot	Foundry	2:Iron Ingot, 2:Coal	3	3:Steel Ingot
+Alternate: Steamed Copper Sheet	Refinery	3:Copper Ingot, 3:m^3 Water	8	3:Copper Sheet
+Alternate: Steel Canister	Constructor	3:Steel Ingot	3	2:Empty Canister
+Alternate: Steel Coated Plate	Assembler	3:Steel Ingot, 2:Plastic	24	18:Iron Plate
+Alternate: Steel Rod	Constructor	1:Steel Ingot	5	4:Iron Rod
+Alternate: Steel Rotor	Assembler	2:Steel Pipe, 6:Wire	12	1:Rotor
+Alternate: Steel Screw	Constructor	1:Steel Beam	12	52:Screw
+Alternate: Steeled Frame	Assembler	2:Reinforced Iron Plate, 10:Steel Pipe	60	3:Modular Frame
+Alternate: Stitched Iron Plate	Assembler	10:Iron Plate, 20:Wire	32	3:Reinforced Iron Plate
+Alternate: Super-State Computer	Manufacturer	3:Computer, 2:Electromagnetic Control Rod, 20:Battery, 45:Wire	50	2:Supercomputer
+Alternate: Turbo Blend Fuel	Blender	2:m^3 Fuel, 4:m^3 Heavy Oil Residue, 3:Sulfur, 3:Petroleum Coke	8	6:m^3 Turbofuel
+Alternate: Turbo Electric Motor	Manufacturer	7:Motor, 9:Radio Control Unit, 5:Electromagnetic Control Rod, 7:Rotor	64	3:Turbo Motor
+Alternate: Turbo Heavy Fuel	Refinery	5:m^3 Heavy Oil Residue, 4:Compacted Coal	8	4:m^3 Turbofuel
+Alternate: Turbo Pressure Motor	Manufacturer	4:Motor, 1:Pressure Conversion Cube, 24:Packaged Nitrogen Gas, 8:Stator	32	2:Turbo Motor
+Alternate: Uranium Fuel Unit	Manufacturer	100:Encased Uranium Cell, 10:Electromagnetic Control Rod, 3:Crystal Oscillator, 6:Beacon	300	3:Uranium Fuel Rod
+Alternate: Wet Concrete	Refinery	6:Limestone, 5:m^3 Water	3	4:Concrete
+Alumina Scrap	Refinery	4:m^3 Alumina Solution, 2:Coal	1	6:Aluminum Scrap, 2:m^3 Water
+Alumina Solution	Refinery	12:Bauxite, 18:m^3 Water	6	12:m^3 Alumina Solution, 5:Silica
+Aluminum Casing	Constructor	3:Aluminum Ingot	2	2:Aluminum Casing
+Aluminum Ingot	Foundry	6:Aluminum Scrap, 5:Silica	4	4:Aluminum Ingot
+Assembly Director System	Assembler	2:Adaptive Control Unit, 1:Supercomputer	80	1:Assembly Director System
+Automated Wiring	Assembler	1:Stator, 20:Cable	24	1:Automated Wiring
+Battery	Blender	2.5:m^3 Sulfuric Acid, 2:m^3 Alumina Solution, 1:Aluminum Casing	3	1:Battery, 1.5:m^3 Water
+Beacon	Manufacturer	3:Iron Plate, 1:Iron Rod, 15:Wire, 2:Cable	8	1:Beacon
+Biomass (Alien Protein)	Constructor	1:Alien Protein	4	100:Biomass
+Biomass (Leaves)	Constructor	10:Leaves	5	5:Biomass
+Biomass (Mycelia)	Constructor	1:Mycelia	4	10:Biomass
+Biomass (Wood)	Constructor	4:Wood	4	20:Biomass
+Black Powder	Assembler	1:Coal, 1:Sulfur	4	2:Plack Powder
+Cable	Constructor	2:Wire	2	1:Cable
+Caterium Ingot	Smelter	3:Caterium Ore	4	1:Caterium Ingot
+Circuit Board	Assembler	2:Copper Sheet, 4:Plastic	8	1:Circuit Board
+Cluster Nobelisk	Assembler	3:Nobelisk, 4:Smokeless Powder	24	1:Cluster Nobelisk
+Color Cartridge	Constructor	5:Flower Petals	6	10:Color Cartridge
+Computer	Manufacturer	10:Circuit Board, 9:Cable, 18:Plastic, 52:Screw	24	1:Computer
+Concrete	Constructor	3:Limestone	4	1:Concrete
+Cooling System	Blender	2:Heat Sink, 2:Rubber, 5:m^3 Water, 25:m^3 Nitrogen Gas	10	1:Cooling System
+Copper Ingot	Smelter	1:Copper Ore	2	1:Copper Ingot
+Copper Powder	Constructor	30:Copper Ingot	6	5:Copper Powder
+Copper Sheet	Constructor	2:Copper Ingot	6	1:Copper Sheet
+Crystal Oscillator	Manufacturer	36:Quartz Crystal, 28:Cable, 5:Reinforced Iron Plate	120	2:Crystal Oscillator
+Electromagnetic Control Rod	Assembler	3:Stator, 2:AI Limiter	30	2:Electromagnetic Control Rod
+Empty Canister	Constructor	2:Plastic	4	4:Empty Canister
+Empty Fluid Tank	Constructor	1:Aluminum Ingot	1	1:Empty Fluid Tank
+Encased Industrial Beam	Assembler	4:Steel Beam, 5:Concrete	10	1:Encased Industrial Beam
+Encased Plutonium Cell	Assembler	2:Plutonium Pellet, 4:Concrete	12	1:Encased Plutonium Cell
+Encased Uranium Cell	Blender	10:Uranium, 3:Concrete, 8:m^3 Sulfuric Acid	12	5:Encased Uranium Cell, 2:m^3 Sulfuric Acid
+Explosive Rebar	Manufacturer	2:Iron Rebar, 2:Smokeless Powder, 2:Steel Pipe	12	1:Explosive Rebar
+Fabric	Assembler	1:Mycelia, 5:Biomass	4	1:Fabric
+Fuel	Refinery	6:m^3 Crude Oil	6	4:m^3 Fuel, 3:Polymer Resin
+Fused Modular Frame	Blender	1:Heavy Modular Frame, 50:Aluminum Casing, 25:m^3 Nitrogen Gas	40	1:Fused Modular Frame
+Gas Filter	Manufacturer	5:Coal, 2:Rubber, 2:Fabric	8	1:Gas Filter
+Gas Nobelisk	Assembler	1:Nobelisk, 10:Biomass	12	1:Gas Nobelisk
+Hatcher Protein	Constructor	1:Hatcher Remains	3	1:Alien Protein
+Heat Sink	Assembler	5:Alclad Aluminum Sheet, 3:Copper Sheet	8	1:Heat Sink
+Heavy Modular Frame	Manufacturer	5:Modular Frame, 15:Steel Pipe, 5:Encased Industrial Beam, 100:Screw	30	1:Heavy Modular Frame
+High-Speed Connector	Manufacturer	56:Quickwire, 10:Cable, 1:Circuit Board	16	1:High-Speed Connector
+Hog Protein	Constructor	1:Hog Remains	3	1:Alien Protein
+Homing Rifle Ammo	Assembler	20:Rifle Ammo, 1:High-Speed Connector	24	10:Homing Rifle Ammo
+Iodine Infused Filter	Manufacturer	1:Gas Filter, 8:Quickwire, 1:Aluminum Casing	16	1:Iodine Infused Filter
+Iron Ingot	Smelter	1:Iron Ore	2	1:Iron Ingot
+Iron Plate	Constructor	3:Iron Ingot	6	2:Iron Plate
+Iron Rebar	Constructor	1:Iron Rod	4	1:Iron Rebar
+Iron Rod	Constructor	1:Iron Ingot	4	1:Iron Rod
+Liquid Biofuel	Refinery	6:Solid Biofuel, 3:m^3 Water	4	4:m^3 Liquid Biofuel
+Magnetic Field Generator	Manufacturer	5:Versatile Framework, 2:Electromagnetic Control Rod, 10:Battery	120	2:Magnetic Field Generator
+Modular Engine	Manufacturer	2:Motor, 15:Rubber, 2:Smart Plating	60	1:Modular Engine
+Modular Frame	Assembler	3:Reinforced Iron Plate, 12:Iron Rod	60	2:Modular Frame
+Motor	Assembler	2:Rotor, 2:Stator	12	1:Motor
+Nitric Acid	Blender	12:m^3 Nitrogen Gas, 3:m^3 Water, 1:Iron Plate	6	3:m^3 Nitric Acid
+Nobelisk	Assembler	2:Black Powder, 2:Steel Pipe	6	1:Nobelisk
+Non-fissile Uranium	Blender	15:Uranium Waste, 10:Silica, 6:m^3 Nitric Acid, 6:m^3 Sulfuric Acid	24	20:Non-fissile Uranium, 6:m^3 Water
+Nuclear Pasta	Particle Accelerator	200:Copper Powder, 1:Pressure Conversion Cube	120	1:Nuclear Pasta
+Nuke Nobelisk	Manufacturer	5:Nobelisk, 20:Encased Uranium Cell, 10:Smokeless Powder, 6:AI Limiter	120	1:Nuke Nobelisk
+Organic Data Capsule	Constructor	1:Alien Protein	6	1:Organic Data Capsule
+Packaged Alumina Solution	Packager	2:m^3 Alumina Solution, 2:Empty Canister	1	2:Packaged Alumina Solution
+Packaged Fuel	Packager	2:m^3 Fuel, 2:Empty Canister	3	2:Packaged Fuel
+Packaged Heavy Oil Residue	Packager	2:m^3 Heavy Oil Residue, 2:Empty Canister	4	2:Packaged Heavy Oil Residue
+Packaged Liquid Biofuel	Packager	2:m^3 Liquid Biofuel, 2:Empty Canister	3	2:Packaged Liquid Biofuel
+Packaged Nitric Acid	Packager	1:m^3 Nitric Acid, 1:Empty Fluid Tank	2	1:Packaged Nitric Acid
+Packaged Nitrogen Gas	Packager	4:m^3 Nitrogren Gas, 1:Empty Fluid Tank	1	1:Packaged Nitrogen Gas
+Packaged Oil	Packager	2:m^3 Crude Oil, 2:Empty Canister	4	2:Packaged Oil
+Packaged Sulfuric Acid	Packager	2:m^3 Sulfuric Acid, 2:Empty Canister	3	2:Packaged Sulfuric Acid
+Packaged Turbofuel	Packager	2:m^3 Turbofuel, 2:Empty Canister	6	2:Packaged Turbofuel
+Packaged Water	Packager	2:m^3 Water, 2:Empty Canister	2	2:Packaged Water
+Petroleum Coke	Refinery	4:m^3 Heavy Oil Residue	6	12:Petroleum Coke
+Plastic	Refinery	3:m^3 Crude Oil	6	2:Plastic, 1:m^3 Heavy Oil Residue
+Plutonium Fuel Rod	Manufacturer	30:Encased Plutonium Cell, 18:Steel Beam, 6:Electromagnetic Control Rod, 10:Heat Sink	240	1:Plutonium Fuel Rod
+Plutonium Pellet	Particle Accelerator	100:Non-fissile Uranium, 25:Uranium Waste	60	30:Plutonium Pellet
+Power Shard (1)	Constructor	1:Blue Power Slug	8	1:Power Shard
+Power Shard (2)	Constructor	1:Yellow Power Slug	12	2:Power Shard
+Power Shard (5)	Constructor	1:Purple Power Slug	24	5:Power Shard
+Pressure Conversion Cube	Assembler	1:Fused Modular Frame, 2:Radio Control Unit	60	1:Pressure Conversion Cube
+Pulse Nobelisk	Assembler	5:Nobelisk, 1:Crystal Oscillator	60	5:Pulse Nobelisk
+Quartz Crystal	Constructor	5:Raw Quartz	8	3:Quartz Crystal
+Quickwire	Constructor	1:Caterium Ingot	5	5:Quickwire
+Radio Control Unit	Manufacturer	32:Aluminum Casing, 1:Crystal Oscillator, 1:Computer	48	2:Radio Control Unit
+Reinforced Iron Plate	Assembler	6:Iron Plate, 12:Screw	12	1:Reinforced Iron Plate
+Residual Fuel	Refinery	6:m^3 Heavy Oil Residue	6	4:m^3 Fuel
+Residual Plastic	Refinery	6:Polymer Resin, 2:m^3 Water	6	2:Plastic
+Residual Rubber	Refinery	4:Polymer Resin, 4:m^3 Water	6	2:Rubber
+Rifle Ammo	Assembler	3:Copper Sheet, 2:Smokeless Powder	12	15:Rifle Ammo
+Rotor	Assembler	5:Iron Rod, 25:Screw	15	1:Rotor
+Rubber	Refinery	3:m^3 Crude Oil	6	2:Rubber, 2:m^3 Heavy Oil Residue
+Screw	Constructor	1:Iron Rod	6	4:Screw
+Shatter Rebar	Assembler	2:Iron Rebar, 3:Quartz Crystal	12	1:Shatter Rebar
+Silica	Constructor	3:Raw Quartz	8	5:Silica
+Smart Plating	Assembler	1:Reinforced Iron Plate, 1:Rotor	30	1:Smart Plating
+Smokeless Powder	Refinery	2:Black Powder, 1:m^3 Heavy Oil Residue	6	2:Smokeless Powder
+Solid Biofuel	Constructor	8:Biomass	4	4:Solid Biofuel
+Spitter Protein	Constructor	1:Plasma Spitter Remains	3	1:Alien Protein
+Stator	Assembler	3:Steel Pipe, 8:Wire	12	1:Stator
+Steel Beam	Constructor	4:Steel Ingot	4	1:Steel Beam
+Steel Ingot	Foundry	3:Iron Ore, 3:Coal	4	3:Steel Ingot
+Steel Pipe	Constructor	3:Steel Ingot	6	2:Steel Pipe
+Stinger Protein	Constructor	1:Stinger Remains	3	1:Alien Protein
+Stun Rebar	Assembler	1:Iron Rebar, 5:Quickwire	6	1:Stun Rebar
+Sulfuric Acid	Refinery	5:Sulfur, 5:m^3 Water	6	5:m^3 Sulfuric Acid
+Supercomputer	Manufacturer	2:Computer, 2:AI Limiter, 3:High-Speed Connector, 28:Plastic	32	1:Supercomputer
+Thermal Propulsion Rocket	Manufacturer	5:Modular Engine, 2:Turbo Motor, 6:Cooling System, 2:Fused Modular Frame	120	2:Thermal Propulsion Rocket
+Turbo Motor	Manufacturer	4:Cooling System, 2:Radio Control Unit, 4:Motor, 24:Rubber	32	1:Turbo Motor
+Turbo Rifle Ammo (Manufacturer)	Manufacturer	25:Rifle Ammo, 3:Aluminum Casing, 3:Packaged Turbofuel	12	50:Turbo Rifle Ammo
+Turbo Rifle Ammo (Blender)	Blender	25:Rifle Ammo, 3:Aluminum Casing, 3:m^3 Turbofuel	12	50:Turbo Rifle Ammo
+Turbofuel	Refinery	6:m^3 Fuel, 4:Compacted Coal	16	5:m^3 Turbofuel
+Unpackaged Alumina Solution	Packager	2:Packaged Alumina Solution	1	2:m^3 Crude Oil, 2:Empty Canister
+Unpackaged Fuel	Packager	2:Packaged Fuel	2	2:m^3 Fuel, 2:Empty Canister
+Unpackaged Heavy Oil Residue	Packager	2:Packaged Heavy Oil Residue	6	2:m^3 Heavy Oil Residue, 2:Empty Canister
+Unpackaged Liquid Biofuel	Packager	2:Packaged Liquid Biofuel	2	2:m^3 Liquid Biofuel, 2:Empty Canister
+Unpackaged Nitric Acid	Packager	1:Packaged Nitric Acid	3	1:m^3 Nitric Acid, 1:Empty Fluid Tank
+Unpackaged Nitrogen Gas	Packager	1:Packaged Nitrogen Gas	1	4:m^3 Nitrogen Gas, 1:Empty Fluid Tank
+Unpackaged Oil	Packager	2:Packaged Oil	2	2:m^3 Crude Oil, 2:Empty Canister
+Unpackaged Sulfuric Acid	Packager	1:Packaged Sulfuric Acid	1	1:m^3 Sulfuric Acid, 1:Empty Canister
+Unpackaged Turbofuel	Packager	2:Packaged Turbofuel	6	2:m^3 Turbofuel, 2:Empty Canister
+Unpackaged Water	Packager	2:Packaged Water	1	2:m^3 Water, 2:Empty Canister
+Uranium Fuel Rod	Manufacturer	50:Encased Uranium Cell, 3:Encased Industrial Beam, 5:Electromagnetic Control Rod	150	1:Uranium Fuel Rod
+Versatile Framework	Assembler	1:Modular Frame, 12:Steel Beam	24	2:Versatile Framework
+Wire	Constructor	1:Copper Ingot	4	2:Wire
+(0)	Nuclear Power Plant	1:Uranium Fuel Rod	300	50:Uranium Waste
+(1)	Nuclear Power Plant	1:Plutonium Fuel Rod	600	10:Plutonium Waste

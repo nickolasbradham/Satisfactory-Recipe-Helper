@@ -1,0 +1,11 @@
+Name	Cost	Max MW
+Constructor	2:Reinforced Iron Plate, 8:Cable	4
+Assembler	8:Reinforced Iron Plate, 4:Rotor, 10:Cable	15
+Manufacturer	5:Motor, 10:Heavy Modular Frame, 50:Cable, 50:Plastic	55
+Packager	20:Steel Beam, 10:Rubber, 10:Plastic	10
+Refinery	10:Motor, 10:Encased Industrial Beam, 30:Steel Pipe, 20:Copper Sheet	30
+Blender	20:Motor, 10:Heavy Modular Frame, 50:Aluminum Casing, 5:Radio Control Unit	75
+Particle Accelerator	25:Radio Control Unit, 100:Electromagnetic Control Rod, 10:Supercomputer, 50:Cooling System, 20:Fused Modular Frame, 10:Turbo Motor	1500
+Smelter	5:Iron Rod, 8:Wire	4
+Foundry	10:Modular Frame,10:Rotor, 20:Concrete	16
+Nuclear Plant	250:Concrete, 25:Heavy Modular Frame, 5:Supercomputer, 100:Cable, 100:Alclad Aluminum Sheet	-2500
