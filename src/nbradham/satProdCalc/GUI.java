@@ -77,13 +77,7 @@ final class GUI {
 
 			JButton chkAlts = new JButton("Check All"), unchkAlts = new JButton("Uncheck All"),
 					runCalcs = new JButton("Run Calculations");
-			chkAlts.addActionListener(new ActionListener() {
 
-				@Override
-				public final void actionPerformed(ActionEvent e) {
-					setAltBoxes(true);
-				}
-			});
 			unchkAlts.addActionListener(new ActionListener() {
 
 				@Override
@@ -94,10 +88,22 @@ final class GUI {
 
 			gbc.gridx = 0;
 			gbc.gridy = 0;
+			gbc.weightx = .5;
 			altPane.add(unchkAlts, gbc);
+
+			chkAlts.addActionListener(new ActionListener() {
+
+				@Override
+				public final void actionPerformed(ActionEvent e) {
+					setAltBoxes(true);
+				}
+			});
 
 			gbc.gridx = 1;
 			altPane.add(chkAlts, gbc);
+
+			gbc.gridy = 1;
+			altPane.add(Box.createVerticalStrut(4), gbc);
 
 			Box altsBox = Box.createVerticalBox();
 			for (JCheckBox jcb : altBoxes)
@@ -106,10 +112,10 @@ final class GUI {
 			JScrollPane scroll = new JScrollPane(altsBox, JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED,
 					JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
 			scroll.setPreferredSize(new Dimension(250, 650));
-			scroll.getVerticalScrollBar().setUnitIncrement(16);
+			scroll.getVerticalScrollBar().setUnitIncrement(8);
 
 			gbc.gridx = 0;
-			gbc.gridy = 1;
+			gbc.gridy = 2;
 			gbc.gridwidth = 2;
 			altPane.add(scroll, gbc);
 
