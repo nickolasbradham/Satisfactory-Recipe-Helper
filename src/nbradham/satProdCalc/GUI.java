@@ -132,13 +132,7 @@ final class GUI {
 
 			gbc.gridx = 1;
 			gbc.gridheight = 1;
-			gbc.gridwidth = 3;
 			frame.add(outPane, gbc);
-
-			gbc.gridy = 1;
-			gbc.gridwidth = 1;
-			gbc.anchor = GridBagConstraints.WEST;
-			frame.add(new JLabel("Optimize For: "), gbc);
 
 			runCalcs.addActionListener(new ActionListener() {
 
@@ -149,7 +143,8 @@ final class GUI {
 					// TODO Post results.
 				}
 			});
-			gbc.gridx = 2;
+			gbc.gridy = 1;
+			gbc.anchor = GridBagConstraints.CENTER;
 			frame.add(runCalcs, gbc);
 
 			JTextArea resultArea = new JTextArea("Click \"Run Calculations\" or press Enter to calculate results.", 35,
