@@ -25,16 +25,6 @@ final class Main {
 	}
 
 	/**
-	 * Performs the production line calculations.
-	 * 
-	 * @param itemStack The item and rate to produce.
-	 * @return The results of the calculation.
-	 */
-	CalcResults calculate(ItemStack itemStack) {
-		return new RecipeSearcher(itemStack).findBest();
-	}
-
-	/**
 	 * Retrieves all craftable items from all recipes in the {@link RecipeManager}.
 	 * 
 	 * @return All available item names.

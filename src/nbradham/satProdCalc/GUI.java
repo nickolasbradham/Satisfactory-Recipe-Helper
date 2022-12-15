@@ -30,8 +30,6 @@ import javax.swing.border.TitledBorder;
  */
 final class GUI {
 
-	static final String OP_FAST_OUT = "Fastest Output", OP_LEAST_IN = "Least Input", OP_LEAST_MACH = "Least Machines",
-			OP_LEAST_POW = "Least Power";
 	private static final String ALT_START = "Alternate: ";
 
 	private final JCheckBox[] altBoxes;
@@ -142,28 +140,16 @@ final class GUI {
 			gbc.anchor = GridBagConstraints.WEST;
 			frame.add(new JLabel("Optimize For: "), gbc);
 
-			JComboBox<String> optSel = new JComboBox<>(
-					new String[] { OP_FAST_OUT, OP_LEAST_IN, OP_LEAST_MACH, OP_LEAST_POW });
-			optSel.setSelectedIndex(1);
-			optSel.addActionListener(new ActionListener() {
-
-				@Override
-				public void actionPerformed(ActionEvent e) {
-					RecipeSearcher.setOptimizeFor((String) optSel.getSelectedItem());
-				}
-			});
-			gbc.gridx = 2;
-			frame.add(optSel, gbc);
-
 			runCalcs.addActionListener(new ActionListener() {
 
 				@Override
 				public void actionPerformed(ActionEvent e) {
-					main.calculate(new ItemStack((String) outSel.getSelectedItem(), (double) outRate.getValue()));
+					ProductionLine
+							.calculate(new ItemStack((String) outSel.getSelectedItem(), (double) outRate.getValue()));
 					// TODO Post results.
 				}
 			});
-			gbc.gridx = 3;
+			gbc.gridx = 2;
 			frame.add(runCalcs, gbc);
 
 			JTextArea resultArea = new JTextArea("Click \"Run Calculations\" or press Enter to calculate results.", 35,
